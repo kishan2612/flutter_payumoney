@@ -1,0 +1,9 @@
+<resources>
+    <string name="log_out_user">Log out user</string>
+    <!-- Replace "000000000000" with your Facebook App ID here. -->
+    <string name="facebook_app_id">319321935491292</string>
+
+    <!-- Replace "000000000000" with your Facebook App ID here. -->
+    <string name="fb_login_protocol_scheme">fb319321935491292</string>
+
+</resources>

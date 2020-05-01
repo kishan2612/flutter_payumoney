@@ -1,0 +1,37 @@
+PODS:
+  - Flutter (1.0.0)
+  - PayUIndia-Custom-Browser (5.9)
+  - PayUmoney_CoreSDK (4.0):
+    - PayUIndia-Custom-Browser (~> 5.9)
+  - payumoney_plugin (0.0.1):
+    - Flutter
+    - PayUmoney_PnP (= 2.5.2)
+  - PayUmoney_PnP (2.5.2):
+    - PayUmoney_CoreSDK
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - payumoney_plugin (from `/Users/kishanv/Documents/Work_Project/payumoney_plugin/ios/payumoney_plugin.podspec`)
+
+SPEC REPOS:
+  https://cdn.cocoapods.org/:
+    - PayUIndia-Custom-Browser
+    - PayUmoney_CoreSDK
+    - PayUmoney_PnP
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  payumoney_plugin:
+    :path: "/Users/kishanv/Documents/Work_Project/payumoney_plugin/ios/payumoney_plugin.podspec"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  PayUIndia-Custom-Browser: 2d7f2286cbf49374b15d8d1d8501f668e25d43a4
+  PayUmoney_CoreSDK: 7359e473a7862c8894620fcf9bd934dfe0d4c381
+  payumoney_plugin: 6396b7a27864961b0e057585bbb64a8f2b9697d0
+  PayUmoney_PnP: 322171ad495ee6d925bdbc013feced0b77433ad9
+
+PODFILE CHECKSUM: 6fd9be9d9a2fe8663322cac54670a260fb98d2ef
+
+COCOAPODS: 1.8.4
