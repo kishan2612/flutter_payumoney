@@ -33,5 +33,5 @@ android {
 }
 
 dependencies {
-    implementation 'com.payumoney.sdkui:plug-n-play:1.5.0'
+    implementation 'com.payumoney.sdkui:plug-n-play:1.6.0'
 }
